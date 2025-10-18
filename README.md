@@ -4,7 +4,7 @@ Yuanhao Li
 Anton Falk
 Daksh Raichura
 Kaixin Gao
-Keifei Zhang
+Kefei Zhang
 Li Hsin Chang
 
 # Crime and Socioeconomic Inequality in Boston
